@@ -1,3 +1,6 @@
+//CREATED IN MQL5
+//AUTOR YURI EVANGELISTA VARGENS
+
 //+------------------------------------------------------------------+
 //|                                                       GameObject |
 //|                                         Copyright 2022, Yuri EV. |
